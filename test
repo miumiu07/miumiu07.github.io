@@ -1,0 +1,32 @@
+gift_for_girlfriend    开花树加文字播放        0
+HappyBirthday  动态播放文字，svg动画文字播放    1
+LaraBirthday   全屏播放 加 svg 动画播放        0
+Love-Gift      跳动的爱心，播放代码等          0
+surprise_girlfriend    输入密码验证           1
+two_years      告白气球+表白文字               1
+Valentine      慕课七夕主题                   0
+Valentine2     夜色降临的文字播放 svg文字播放   1
+Valentine3     图片播放加漂亮的svg 爱心        1
+ValentineDaySuprise    气球滚动图片播放        1
+valentines_day 幻灯片播放，整体爱心设计
+xrw            画了两个人的头像
+
+
+路径： 输入密码（07） 播放爱心    夜色降临文字播放   动态图片播放  
+
+
+main-part
+
+第一：输入密码    login-part
+
+第二：星形动态    heart-part
+
+第三：夜色表白    nightsky-part
+
+
+
+
+
+heart_audio
+login_audio
+night_audio
