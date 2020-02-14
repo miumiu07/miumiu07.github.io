@@ -51,7 +51,7 @@
 	    lettuce.post("/serial", irRemote);
 	    L.Event.trigger("showLove")
 	    setTimeout(function(){
-	    	window.location.href="file:///Users/ouou/Desktop/v/miumiu/album/html/love.html";
+	    	window.location.href="https://miumiu07.github.io/album/html/love.html";
 	    }, 24000);
     }
 
